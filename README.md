@@ -1,6 +1,4 @@
-# phpstorm-code-style
-
-PhpStorm Code style settings
+# PhpStorm Code style settings
 
 ## Description
 
@@ -30,6 +28,13 @@ PhpStorm Code style settings
 5. Select _IntelliJ Idea Code Style XML_
 6. Select the XML file and import
 
+1. _File_ > _Settings_
+2. _Editor_ > _Inspections_
+3. Select the _three dots_ next to _Profile_
+4. Select _Import Profile …_
+5. Select _Profile Default.xml_
+5. Select the XML file and import
+
 ### Project
 
 1. Open your project
@@ -37,3 +42,18 @@ PhpStorm Code style settings
 3. Select _Copy to Project …_ and confirm the following dialog (Overwrite)
 4. Apply the new styles to your project
 
+
+# PhpStorm Inspections settings
+
+* PHP: ignore PHPDoc comments if type hints are sufficient
+
+## Import
+
+### IDE
+
+1. _File_ > _Settings_
+2. _Editor_ > _Inspections_
+3. Select the _three dots_ next to _Profile_
+4. Select _Import Profile …_
+5. Select _Profile Default.xml_
+6. Select the XML file and import
