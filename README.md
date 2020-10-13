@@ -11,6 +11,9 @@
     * semi-colons
     * chained indented calls
 
+* vue.js Components (.vue) 
+    * same as Typescript
+
 * SCSS/LESS: based on PhpStorm Default
     * indent 4 spaces
 
