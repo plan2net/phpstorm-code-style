@@ -140,7 +140,7 @@
       "space_after_comma": true,
       "space_after_for_semicolon": true,
       "space_after_quest": true,
-      "space_after_type_cast": false,
+      "space_after_type_cast": true,
       "space_after_unary_not": false,
       "space_before_array_initializer_left_brace": false,
       "space_before_catch_keyword": true,
